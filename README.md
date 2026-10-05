@@ -7,7 +7,7 @@ Hackathon team repository for Shadow - [hackindia-team:pixels-to-products-cloudi
 Built for *Pixels to Products — Cloudinary AI Hackathon 2026* (HackIndia × Cloudinary), track: **Your Media-Savvy Startup**.
 
 # Live Demo URL
-dukaan-studio.vercel.app
+https://dukaan-studio.vercel.app
 
 ## The problem
 
